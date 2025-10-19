@@ -1,6 +1,6 @@
-baseURL: "https://thuytran1184.github.io/EthicHack/"
+baseURL: "https://thuytran1184.github.io/EH/"
 languageCode: "vn-vi"
-title: "EthicHack"
+title: "EH"
 theme: "blowfish"
 
 enableRobotsTXT: true
